@@ -12,10 +12,6 @@
 </p>
 <br>
 
-<div align="center">  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokcharathae&layout=compact)](https://github.com/nokcharathae/github-readme-stats)
-</div>
-<br>
 
 
 <!--
