@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=ChoiEunYeong&fontSize=90)
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <!--
 **nokcharathae/nokcharathae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
