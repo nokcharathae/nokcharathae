@@ -18,7 +18,7 @@
 
 
  <h4 align="center", style="color:#000000;font-family:Regular;">
- Virtual Reality
+ Platform(Virtual Reality)
 </h4>
 
 <p align="center">
