@@ -2,7 +2,7 @@
 
 
 <h3 align="center", style="color:#7EAAE6;font-family:Regular;">
- SKILLS
+🖥️ SKILLS
 </h3>
 
  <h4 align="center", style="color:#000000;font-family:Regular;">
