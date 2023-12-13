@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=I'm%20Enuyeong&fontSize=90&fontColor=gradient)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=I'm%20Enuyeong&fontSize=90&fontColor=gradient$text=Stroke%20Test&stroke=7EAAE6)
 
 
 <h3 align="center", style="color:#7EAAE6;font-family:Regular;">
