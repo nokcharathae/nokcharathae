@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=ChoiEunYeong&fontSize=90)
 
-<h3 align="center", style="color:#7EAAE6">
+<h3 align="center", style="color:#7EAAE6;font-family:Regular;">
  SKILLS
 </h3>
 
