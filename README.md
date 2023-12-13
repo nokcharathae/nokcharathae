@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=ChoiEunYeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Enuyeong&fontSize=90&fontColor=000000)
+
 
 <h3 align="center", style="color:#7EAAE6;font-family:Regular;">
  SKILLS
