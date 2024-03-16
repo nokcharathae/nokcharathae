@@ -13,8 +13,8 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=Csharp&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
 </p>
-
 
 
  <h4 align="center", style="color:#000000;font-family:Regular;">
@@ -26,8 +26,11 @@
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
-<a align="center" href="https://github.com/nokcharathae">
+<p align="center">
+<a href="https://github.com/nokcharathae">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokcharathae&layout=compact&theme=nord&hide_border=true" /></a> 
+</p>
+
 
 <!--
 **nokcharathae/nokcharathae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
